@@ -1,46 +1,43 @@
 # Titulo del Proyecto
 
-Titulo del proyecto
+Ejercicios C++
 
 ## Descripcion
 
-Una breve descripcion del proyecto.
+Repo de ejercicios de practica de la materia Paradigmas 2 - UNLaR
+Ejercicio de manejao de Git para Pilar Tecnologico
+"Entorno de Trabajo Optimizado para React"
 
 ## Comenzando el proyecto
 
-### Dependenciias
+24/Feb/2021 para Pilar Tecnológico 
 
-- Describir todas las dependencias necesarias.
+### Dependencias
+
+- Librerias basicas
 
 ### Instalacion
 
-- Como instalar este proyecto
+- No se requiere
 
 ### Ejecucion del programa
 
-- Como ejecutar el programa
+- Recomendada alguna IDE como CodeBloks
 
-```
-bloque de comandos
-```
 
 ## Autor o autores
 
-Todas las personas que han contribuido.
+Javier Caamaño
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+@javicaamano IG
 
-## Versines
 
-- 0.2
-  - Various bug fixes and optimizations
-  - See [commit change]() or See [release history]()
-- 0.1
-  - Initial Release
+## Versiones
+
+
 
 ## Licencia
 
-Licencia del proyecto
+
 
 ## Otras secciones
