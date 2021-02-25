@@ -26,5 +26,5 @@ printf("\n el promedio total es %.2f\n\n",prom);
   suma=suma+i;
   printf("\n la suma total es %d\n\n",suma);
 
-
+/* Tambien se podria hacer en la parte de prom=prom/5 ------- prom=prom/notas para que cuando sean mas notas tome el valor directamente*/
 
