@@ -1,16 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
+#define n 5
 
 int main()
 {
-    int notas[5];
+    int notas[n];
     int i;
     int pos=0;
     float prom=0;
     int mayor=0;
     int suma=0;
 
-    for(i=0;i<5;i++)
+    for(i=0;i<n;i++)
 
 {
     do
@@ -20,7 +21,7 @@ int main()
     while (notas[i]<0 || notas[i]>10);
     prom=prom+notas[i];
 }
-prom=prom/5;
+prom=prom/n;
 printf("\n el promedio total es %.2f\n\n",prom);
 }
   suma=suma+i;
